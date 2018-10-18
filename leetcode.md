@@ -24,12 +24,13 @@
 
 ## 2018-08-16
 
-| title                        | time     | solution |
-| ---------------------------- | -------- | -------- |
-| 784. Letter Case Permutation | 88ms/32% | optmize! |
+| title                                                                                  | time     | solution |
+| -------------------------------------------------------------------------------------- | -------- | -------- |
+| [784. Letter Case Permutation](./problems/letter-case-permutation/bit_manipulation.js) | 88ms/32% | optmize! |
 
-## 2018-08-16
+## 2018-08-17
 
-| title          | time     | solution |
-| -------------- | -------- | -------- |
-| 90. Subsets II | 80ms/24% | optmize! |
+| title                                                | time | solution                                              |
+| ---------------------------------------------------- | ---- | ----------------------------------------------------- |
+| [90. Subsets II](./problems/subsets-ii/iterative.js) | 60ms | see duplicate elements as the elements repeat n times |
+| [90. Subsets II](./problems/subsets-ii/dfs.js)       | 64ms | dfs                                                   |

@@ -1,10 +1,12 @@
 /**
  * @param {number[]} nums
  * @return {number[][]}
+ * 60ms
  */
 var subsetsWithDup = function(nums) {
   let res = [[]];
   nums = nums.sort((a, b) => a - b);
+  var times = 0;
   for (let i = 0, len = nums.length; i < len; ) {
     let count = 0;
     while (count + i < len && nums[count + i] == nums[i]) {
@@ -20,6 +22,28 @@ var subsetsWithDup = function(nums) {
       }
     }
     i += count;
+  }
+  return res;
+};
+
+/**
+ * another solution
+ * easy to understand
+ * 62ms
+ */
+var subsetsWithDup_ii = function(nums) {
+  let res = [[]];
+  nums = nums.sort((a, b) => a - b);
+  var res_len = 1;
+  for (let i = 0, len = nums.length; i < len; i++) {
+    let count = 0;
+    if (i == 0 || nums[i] != nums[i - 1]) {
+      res_len = res.length;
+    }
+    let max_length = res.length;
+    for (let j = max_length - res_len; j < max_length; j++) {
+      res.push(res[j].concat(nums[i]));
+    }
   }
   return res;
 };
