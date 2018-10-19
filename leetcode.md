@@ -34,3 +34,10 @@
 | ---------------------------------------------------- | ---- | ----------------------------------------------------- |
 | [90. Subsets II](./problems/subsets-ii/iterative.js) | 60ms | see duplicate elements as the elements repeat n times |
 | [90. Subsets II](./problems/subsets-ii/dfs.js)       | 64ms | dfs                                                   |
+
+# 2018-08-19
+
+| title                   | time     | solution                                                                                                                                        |
+| ----------------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| 46.Permutations         | 68ms/86% | self, the [dp-like solutuon](https://leetcode.com/problems/permutations/discuss/18237/My-AC-simple-iterative-javapython-solution) is intresting |
+| 60.Permutation Sequence | 52ms     |                                                                                                                                                 |
