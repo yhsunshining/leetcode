@@ -44,6 +44,7 @@
 
 # 2018-10-28
 
-| title                                                        | time      | solution |
-| ------------------------------------------------------------ | --------- | -------- |
-| [79.Word Search](https://leetcode.com/problems/word-search/) | 72ms/100% | dfs      |
+| title                                                        | time      | solution                                                                                                                                                   |
+| ------------------------------------------------------------ | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [79.Word Search](https://leetcode.com/problems/word-search/) | 72ms/100% | dfs                                                                                                                                                        |
+| 80.Remove Duplicates from Sorted Array II                    | 68ms/80%  | self, [n>nums[n-2]](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/discuss/27976/3-6-easy-lines-C%2B%2B-Java-Python-Ruby) is awesome |
