@@ -54,3 +54,10 @@
 | title                             | time     | solution |
 | --------------------------------- | -------- | -------- |
 | 33.Search in Rotated Sorted Array | 56ms/64% | 52ms max |
+
+# 2018-11-06
+
+| title                                       | time | solution |
+| ------------------------------------------- | ---- | -------- |
+| 153.find-minimum-in-rotated-sorted-array    | 52   |          |
+| 154.find-minimum-in-rotated-sorted-array-ii | 52ms |          |
