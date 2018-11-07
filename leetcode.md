@@ -48,3 +48,9 @@
 | ------------------------------------------------------------ | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [79.Word Search](https://leetcode.com/problems/word-search/) | 72ms/100% | dfs                                                                                                                                                        |
 | 80.Remove Duplicates from Sorted Array II                    | 68ms/80%  | self, [n>nums[n-2]](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/discuss/27976/3-6-easy-lines-C%2B%2B-Java-Python-Ruby) is awesome |
+
+# 2018-11-06
+
+| title                             | time     | solution |
+| --------------------------------- | -------- | -------- |
+| 33.Search in Rotated Sorted Array | 56ms/64% | 52ms max |
