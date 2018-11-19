@@ -61,3 +61,9 @@
 | ------------------------------------------- | ---- | -------- |
 | 153.find-minimum-in-rotated-sorted-array    | 52   |          |
 | 154.find-minimum-in-rotated-sorted-array-ii | 52ms |          |
+
+# 2018-11-19
+
+| title                                | time | solution                                                          |
+| ------------------------------------ | ---- | ----------------------------------------------------------------- |
+| 81.search-in-rotated-sorted-array-ii | 56ms | [trick](nums[start] == nums[middle] && nums[middle] == nums[end]) |
