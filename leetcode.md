@@ -64,6 +64,7 @@
 
 # 2018-11-19
 
-| title                                | time | solution                                                          |
-| ------------------------------------ | ---- | ----------------------------------------------------------------- |
-| 81.search-in-rotated-sorted-array-ii | 56ms | [trick](nums[start] == nums[middle] && nums[middle] == nums[end]) |
+| title                                                      | time | solution                                                          |
+| ---------------------------------------------------------- | ---- | ----------------------------------------------------------------- |
+| 81.search-in-rotated-sorted-array-ii                       | 56ms | [trick](nums[start] == nums[middle] && nums[middle] == nums[end]) |
+| 34.find-first-and-last-position-of-element-in-sorted-array | 56ms | a little complex                                                  |
