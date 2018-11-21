@@ -72,6 +72,7 @@
 
 # 2018-11-21
 
-| title                                                          | time | solution |
-| -------------------------------------------------------------- | ---- | -------- |
-| 105. Construct Binary Tree from Preorder and Inorder Traversal | 72ms |          |
+| title                                                           | time | solution |
+| --------------------------------------------------------------- | ---- | -------- |
+| 105. Construct Binary Tree from Preorder and Inorder Traversal  | 72ms |          |
+| 106. Construct Binary Tree from Inorder and Postorder Traversal | 72ms |          |
