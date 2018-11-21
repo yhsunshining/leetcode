@@ -72,6 +72,6 @@
 
 # 2018-11-21
 
-| title                                                          | time      | solution     |
-| -------------------------------------------------------------- | --------- | ------------ |
-| 105. Construct Binary Tree from Preorder and Inorder Traversal | 180ms/34% | need optmize |
+| title                                                          | time | solution |
+| -------------------------------------------------------------- | ---- | -------- |
+| 105. Construct Binary Tree from Preorder and Inorder Traversal | 72ms |          |
