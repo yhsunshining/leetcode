@@ -76,3 +76,5 @@
 | --------------------------------------------------------------- | ---- | -------- |
 | 105. Construct Binary Tree from Preorder and Inorder Traversal  | 72ms |          |
 | 106. Construct Binary Tree from Inorder and Postorder Traversal | 72ms |          |
+| 118. Pascal's Triangle                                          | 48   |          |
+| 119. Pascal's Triangle II                                       | 52   |
