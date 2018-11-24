@@ -78,3 +78,10 @@
 | 106. Construct Binary Tree from Inorder and Postorder Traversal | 72ms |          |
 | 118. Pascal's Triangle                                          | 48   |          |
 | 119. Pascal's Triangle II                                       | 52   |
+
+# 2018-11-23
+
+| title                | time | solution |
+| -------------------- | ---- | -------- |
+| 120. Triangle        | 56ms |          |
+| 53. Maximum Subarray | 56ms |          |
