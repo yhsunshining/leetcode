@@ -81,8 +81,17 @@
 
 # 2018-11-23
 
-| title                         | time | solution |
-| ----------------------------- | ---- | -------- |
-| 120. Triangle                 | 56ms |          |
-| 53. Maximum Subarray          | 56ms |          |
-| 152. Maximum Product Subarray | 56ms |          |
+| title                | time | solution |
+| -------------------- | ---- | -------- |
+| 120. Triangle        | 56ms |          |
+| 53. Maximum Subarray | 56ms |          |
+
+# 2018-11-24
+
+| 152. Maximum Product Subarray | 56ms |
+
+# 2018-11-26
+
+| title                                                                                                    | time | solution            |
+| -------------------------------------------------------------------------------------------------------- | ---- | ------------------- |
+| 167. [two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 56ms | need more solutions |
