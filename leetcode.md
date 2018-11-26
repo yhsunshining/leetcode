@@ -81,7 +81,8 @@
 
 # 2018-11-23
 
-| title                | time | solution |
-| -------------------- | ---- | -------- |
-| 120. Triangle        | 56ms |          |
-| 53. Maximum Subarray | 56ms |          |
+| title                         | time | solution |
+| ----------------------------- | ---- | -------- |
+| 120. Triangle                 | 56ms |          |
+| 53. Maximum Subarray          | 56ms |          |
+| 152. Maximum Product Subarray | 56ms |          |
