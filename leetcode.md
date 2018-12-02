@@ -96,9 +96,16 @@
 | -------------------------------------------------------------------------------------------------------- | ---- | ------------------- |
 | 167. [two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 56ms | need more solutions |
 
-# 2018-11-30
+# 2018-11-30/2018-12-02
 
-| title                                                                        | time    | solution                   |
-| ---------------------------------------------------------------------------- | ------- | -------------------------- |
-| 189. [rotate-array](https://leetcode.com/problems/rotate-array/submissions/) | 64ms    | cyclic_replace interesting |
-| 209.minimum-size-subarray-sum                                                | 56/60ms | n,nlogn                    |
+| title                                                                        | time | solution                   |
+| ---------------------------------------------------------------------------- | ---- | -------------------------- |
+| 189. [rotate-array](https://leetcode.com/problems/rotate-array/submissions/) | 64ms | cyclic_replace interesting |
+| 209.minimum-size-subarray-sum                                                | 56   | n                          |
+
+#2018-12-02
+
+| title                         | time     | solution     |
+| ----------------------------- | -------- | ------------ |
+| 209.minimum-size-subarray-sum | 60ms     | nlogn        |
+| 216. Combination Sum III      | 56/45.63 | need optmize |
