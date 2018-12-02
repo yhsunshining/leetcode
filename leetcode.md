@@ -98,7 +98,7 @@
 
 # 2018-11-30
 
-| title                                                                        | time | solution                   |
-| ---------------------------------------------------------------------------- | ---- | -------------------------- |
-| 189. [rotate-array](https://leetcode.com/problems/rotate-array/submissions/) | 64ms | cyclic_replace interesting |
-| 209.minimum-size-subarray-sum                                                | 56ms | n,nlogn                    |
+| title                                                                        | time    | solution                   |
+| ---------------------------------------------------------------------------- | ------- | -------------------------- |
+| 189. [rotate-array](https://leetcode.com/problems/rotate-array/submissions/) | 64ms    | cyclic_replace interesting |
+| 209.minimum-size-subarray-sum                                                | 56/60ms | n,nlogn                    |
