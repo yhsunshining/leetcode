@@ -112,7 +112,8 @@
 
 #2018-12-09
 
-| title               | time        | solution   |
-| ------------------- | ----------- | ---------- |
-| 39. Combination Sum | 68ms        |            |
-| 77. Combinations    | 108ms/100ms | self/trick |
+| title                                                                                   | time        | solution                                                       |
+| --------------------------------------------------------------------------------------- | ----------- | -------------------------------------------------------------- |
+| 39. Combination Sum                                                                     | 68ms        |                                                                |
+| 77. Combinations                                                                        | 108ms/100ms | self/trick                                                     |
+| 40. [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/submissions/) | 104ms/68ms  | self/solution, don't know why this solution is so much faster. |
