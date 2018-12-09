@@ -3,25 +3,24 @@
  * @param {number} target
  * @return {number[][]}
  */
-var combinationSum = function(candidates, target) {};
+var combinationSum = function(candidates, target) {
+  let res = [];
+  let tem = [];
+  helper(candidates, target, 0, res, tem);
+  return res;
+};
 
 let helper = function(candidates, target, start, res, tem) {
-  if (n < start) {
-    return null;
-  } else if (k == 1 && n >= start && n <= 9) {
-    return [[n]];
-  } else if (k == 0) {
-    return [];
+  if (target == 0) {
+    res.push(tem.slice());
+    return;
+  } else if (target < 0) {
+    return;
   }
-  let end = Math.ceil(n / k) - 1;
-  let res = [];
-  for (let i = start; i <= end; i++) {
-    let _tem = helper(k - 1, n - i, i + 1);
-    if (_tem) {
-      _tem.forEach(arr => {
-        res.push([i].concat(arr));
-      });
-    }
+
+  for (let i = start, len = candidates.length; i < len; i++) {
+    tem.push(candidates[i]);
+    helper(candidates, target - candidates[i], i, res, tem);
+    tem.pop();
   }
-  return res;
 };

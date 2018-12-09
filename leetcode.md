@@ -112,6 +112,7 @@
 
 #2018-12-09
 
-| title               | time | solution |
-| ------------------- | ---- | -------- |
-| 39. Combination Sum | 68ms |          |
+| title               | time        | solution   |
+| ------------------- | ----------- | ---------- |
+| 39. Combination Sum | 68ms        |            |
+| 77. Combinations    | 108ms/100ms | self/trick |
