@@ -109,3 +109,9 @@
 | ----------------------------- | -------- | ------------ |
 | 209.minimum-size-subarray-sum | 60ms     | nlogn        |
 | 216. Combination Sum III      | 56/45.63 | need optmize |
+
+#2018-12-09
+
+| title               | time | solution |
+| ------------------- | ---- | -------- |
+| 39. Combination Sum | 68ms |          |
