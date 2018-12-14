@@ -118,3 +118,9 @@
 | 77. Combinations                                                                        | 108ms/100ms | self/trick                                                     |
 | 40. [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/submissions/) | 104ms/68ms  | self/solution, don't know why this solution is so much faster. |
 | 228. Summary Ranges                                                                     | 48          | self                                                           |
+
+#2018-12-09
+
+| title                    | time | solution |
+| ------------------------ | ---- | -------- |
+| 229. Majority Element II | 60ms | so bad   |
