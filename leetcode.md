@@ -35,21 +35,21 @@
 | [90. Subsets II](./problems/subsets-ii/iterative.js) | 60ms | see duplicate elements as the elements repeat n times |
 | [90. Subsets II](./problems/subsets-ii/dfs.js)       | 64ms | dfs                                                   |
 
-# 2018-10-19
+## 2018-10-19
 
 | title                   | time     | solution                                                                                                                                        |
 | ----------------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | 46.Permutations         | 68ms/86% | self, the [dp-like solutuon](https://leetcode.com/problems/permutations/discuss/18237/My-AC-simple-iterative-javapython-solution) is intresting |
 | 60.Permutation Sequence | 52ms     |                                                                                                                                                 |
 
-# 2018-10-28
+## 2018-10-28
 
 | title                                                        | time      | solution                                                                                                                                                   |
 | ------------------------------------------------------------ | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [79.Word Search](https://leetcode.com/problems/word-search/) | 72ms/100% | dfs                                                                                                                                                        |
 | 80.Remove Duplicates from Sorted Array II                    | 68ms/80%  | self, [n>nums[n-2]](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/discuss/27976/3-6-easy-lines-C%2B%2B-Java-Python-Ruby) is awesome |
 
-# 2018-11-07
+## 2018-11-07
 
 | title                                       | time     | solution |
 | ------------------------------------------- | -------- | -------- |
@@ -57,20 +57,20 @@
 | 153.find-minimum-in-rotated-sorted-array    | 52       |          |
 | 154.find-minimum-in-rotated-sorted-array-ii | 52ms     |          |
 
-# 2018-11-19
+## 2018-11-19
 
 | title                                                      | time | solution                                                          |
 | ---------------------------------------------------------- | ---- | ----------------------------------------------------------------- |
 | 81.search-in-rotated-sorted-array-ii                       | 56ms | [trick](nums[start] == nums[middle] && nums[middle] == nums[end]) |
 | 34.find-first-and-last-position-of-element-in-sorted-array | 56ms | a little complex                                                  |
 
-# 2018-11-20
+## 2018-11-20
 
 | title                             | time        | solution                              |
 | --------------------------------- | ----------- | ------------------------------------- |
 | 34.largest-rectangle-in-histogram | 64ms/73.87% | [video](https://youtu.be/RVIh0snn4Qc) |
 
-# 2018-11-21
+## 2018-11-21
 
 | title                                                           | time | solution |
 | --------------------------------------------------------------- | ---- | -------- |
@@ -79,38 +79,38 @@
 | 118. Pascal's Triangle                                          | 48   |          |
 | 119. Pascal's Triangle II                                       | 52   |
 
-# 2018-11-23
+## 2018-11-23
 
 | title                | time | solution |
 | -------------------- | ---- | -------- |
 | 120. Triangle        | 56ms |          |
 | 53. Maximum Subarray | 56ms |          |
 
-# 2018-11-24
+## 2018-11-24
 
 | 152. Maximum Product Subarray | 56ms |
 
-# 2018-11-26
+## 2018-11-26
 
 | title                                                                                                    | time | solution            |
 | -------------------------------------------------------------------------------------------------------- | ---- | ------------------- |
 | 167. [two-sum-ii-input-array-is-sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | 56ms | need more solutions |
 
-# 2018-11-30/2018-12-02
+## 2018-11-30/2018-12-02
 
 | title                                                                        | time | solution                   |
 | ---------------------------------------------------------------------------- | ---- | -------------------------- |
 | 189. [rotate-array](https://leetcode.com/problems/rotate-array/submissions/) | 64ms | cyclic_replace interesting |
 | 209.minimum-size-subarray-sum                                                | 56   | n                          |
 
-#2018-12-02
+## 2018-12-02
 
 | title                         | time     | solution     |
 | ----------------------------- | -------- | ------------ |
 | 209.minimum-size-subarray-sum | 60ms     | nlogn        |
 | 216. Combination Sum III      | 56/45.63 | need optmize |
 
-#2018-12-09
+## 2018-12-09
 
 | title                                                                                   | time        | solution                                                       |
 | --------------------------------------------------------------------------------------- | ----------- | -------------------------------------------------------------- |
@@ -119,8 +119,14 @@
 | 40. [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/submissions/) | 104ms/68ms  | self/solution, don't know why this solution is so much faster. |
 | 228. Summary Ranges                                                                     | 48          | self                                                           |
 
-#2018-12-09
+## 2018-12-14
 
 | title                    | time | solution |
 | ------------------------ | ---- | -------- |
 | 229. Majority Element II | 60ms | so bad   |
+
+## 2018-12-15
+
+| title            | time | solution |
+| ---------------- | ---- | -------- |
+| 283. Move Zeroes | 64ms |          |
