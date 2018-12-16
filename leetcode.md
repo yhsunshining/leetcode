@@ -4,7 +4,7 @@
 
 | title                 | time  | solution             |
 | --------------------- | ----- | -------------------- |
-| 64.Minimum Path Sum   | 73    |                      |
+| 64. Minimum Path Sum  | 73    |                      |
 | 62. Unique Paths      | 86.69 | O(n)\_space_discuess |
 | 73. Set Matrix Zeroes | 84 ms | solution             |
 
@@ -130,3 +130,9 @@
 | title            | time | solution |
 | ---------------- | ---- | -------- |
 | 283. Move Zeroes | 64ms |          |
+
+## 2018-12-16
+
+| title               | time  | solution            |
+| ------------------- | ----- | ------------------- |
+| 57. Insert Interval | 64-92 | Can be more elegant |
