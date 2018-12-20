@@ -140,6 +140,7 @@
 
 ## 2018-12-20
 
-| title            | time | solution |
-| ---------------- | ---- | -------- |
-| 48. Rotate Image | 52   |          |
+| title                                | time | solution |
+| ------------------------------------ | ---- | -------- |
+| 48. Rotate Image                     | 52   |          |
+| 121. Best Time to Buy and Sell Stock | 56   |          |
