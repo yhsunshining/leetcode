@@ -151,3 +151,4 @@
 | title                  | time | solution               |
 | ---------------------- | ---- | ---------------------- |
 | 88. Merge Sorted Array | 52   | self reverse traversal |
+| 268. Missing Number    | 60   | need more solutions    |
