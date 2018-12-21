@@ -145,3 +145,9 @@
 | 48. Rotate Image                        | 52   |          |
 | 121. Best Time to Buy and Sell Stock    | 56   |          |
 | 122. Best Time to Buy and Sell Stock II | 60   |          |
+
+## 2018-12-21
+
+| title                  | time | solution               |
+| ---------------------- | ---- | ---------------------- |
+| 88. Merge Sorted Array | 52   | self reverse traversal |
