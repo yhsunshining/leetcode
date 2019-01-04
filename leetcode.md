@@ -152,3 +152,9 @@
 | ---------------------- | ---- | ---------------------- |
 | 88. Merge Sorted Array | 52   | self reverse traversal |
 | 268. Missing Number    | 60   | need more solutions    |
+
+## 2019-01-04
+
+| title               | time   | solution                                                                          |
+| ------------------- | ------ | --------------------------------------------------------------------------------- |
+| 56. Merge Intervals | 76/84% | insert(72ms) can be more efficient, use hashmap instead of sorting(64) is awesome |
