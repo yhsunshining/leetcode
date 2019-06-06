@@ -160,3 +160,9 @@
 | 56. Merge Intervals        | 76/84% | insert(72ms) can be more efficient, use hashmap instead of sorting(64) is awesome |
 | 217. Contains Duplicate    | 72     |                                                                                   |
 | 219. Contains Duplicate II | 68/94% |                                                                                   |
+
+## 2019-01-04
+
+| title               | time   | memory | solution |
+| ------------------- | ------ | ------ | -------- |
+| 47. Permutations II | 95.32% | 96.01% |
