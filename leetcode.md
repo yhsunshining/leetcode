@@ -163,6 +163,7 @@
 
 ## 2019-01-04
 
-| title               | time   | memory | solution |
-| ------------------- | ------ | ------ | -------- |
-| 47. Permutations II | 95.32% | 96.01% |
+| title                             | time   | memory | solution |
+| --------------------------------- | ------ | ------ | -------- |
+| 47. Permutations II               | 95.32% | 96.01% |
+| 238. Product of Array Except Self | 97%    | 96%    |
