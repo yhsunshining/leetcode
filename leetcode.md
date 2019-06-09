@@ -170,6 +170,7 @@
 
 ## 2019-06-09
 
-| title                          | time | memory | solution                  |
-| ------------------------------ | ---- | ------ | ------------------------- |
-| 287. Find the Duplicate Number | 94%  | 73%    | binary search/two pointer |
+| title                                                  | time | memory | solution                  |
+| ------------------------------------------------------ | ---- | ------ | ------------------------- |
+| 287. Find the Duplicate Number                         | 94%  | 73%    | binary search/two pointer |
+| 381. Insert Delete GetRandom O(1) - Duplicates allowed | 90%  | 5.77%  |
