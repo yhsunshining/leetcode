@@ -161,9 +161,15 @@
 | 217. Contains Duplicate    | 72     |                                                                                   |
 | 219. Contains Duplicate II | 68/94% |                                                                                   |
 
-## 2019-01-04
+## 2019-06-06
 
 | title                             | time   | memory | solution |
 | --------------------------------- | ------ | ------ | -------- |
 | 47. Permutations II               | 95.32% | 96.01% |
 | 238. Product of Array Except Self | 97%    | 96%    |
+
+## 2019-06-09
+
+| title                          | time | memory | solution                  |
+| ------------------------------ | ---- | ------ | ------------------------- |
+| 287. Find the Duplicate Number | 94%  | 73%    | binary search/two pointer |
