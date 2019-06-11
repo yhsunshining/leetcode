@@ -184,6 +184,7 @@
 
 ## 2019-06-11
 
-| title                                | time   | memory | solution |
-| ------------------------------------ | ------ | ------ | -------- |
-| 442. Find All Duplicates in an Array | 92.77% | 70.87% |          |
+| title                                                                          | time   | memory | solution |
+| ------------------------------------------------------------------------------ | ------ | ------ | -------- |
+| 442. Find All Duplicates in an Array                                           | 92.77% | 70.87% |          |
+| [457. Circular Array Loop](https://leetcode.com/problems/circular-array-loop/) | 58%    | 50%    | too slow |
