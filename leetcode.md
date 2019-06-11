@@ -176,8 +176,14 @@
 | 381. Insert Delete GetRandom O(1) - Duplicates allowed | 90%  | 5.77%  |
 | 414. Third Maximum Number                              | 96%  | 83%    | top k                     |
 
-## 2019-06-09
+## 2019-06-10
 
 | title                                         | time   | memory | solution |
 | --------------------------------------------- | ------ | ------ | -------- |
 | 448. Find All Numbers Disappeared in an Array | 96.62% | 82.17% | dis      |
+
+## 2019-06-11
+
+| title                                | time   | memory | solution |
+| ------------------------------------ | ------ | ------ | -------- |
+| 442. Find All Duplicates in an Array | 92.77% | 70.87% |          |
