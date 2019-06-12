@@ -188,3 +188,9 @@
 | ------------------------------------------------------------------------------ | ------ | ------ | -------- |
 | 442. Find All Duplicates in an Array                                           | 92.77% | 70.87% |          |
 | [457. Circular Array Loop](https://leetcode.com/problems/circular-array-loop/) | 58%    | 50%    | too slow |
+
+## 2019-06-11
+
+| title                          | time   | memory | solution |
+| ------------------------------ | ------ | ------ | -------- |
+| 1004. Max Consecutive Ones III | 98.54% | 85.23% |          |
