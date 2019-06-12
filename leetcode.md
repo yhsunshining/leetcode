@@ -194,3 +194,4 @@
 | title                          | time   | memory | solution |
 | ------------------------------ | ------ | ------ | -------- |
 | 1004. Max Consecutive Ones III | 98.54% | 85.23% |          |
+| 485. Max Consecutive Ones      | 97%    | 23%    |          |
