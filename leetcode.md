@@ -195,3 +195,4 @@
 | ------------------------------ | ------ | ------ | -------- |
 | 1004. Max Consecutive Ones III | 98.54% | 85.23% |          |
 | 485. Max Consecutive Ones      | 97%    | 23%    |          |
+| 532. K-diff Pairs in an Array  | 57%    | 54%    |          |
