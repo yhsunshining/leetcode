@@ -202,3 +202,4 @@
 | title                                                                                          | time | memory | solution |
 | ---------------------------------------------------------------------------------------------- | ---- | ------ | -------- |
 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/submissions/) | 75%  | 29%    | hashMap  |
+| 561. Array Partition I                                                                         | 96%  | 33%    |
