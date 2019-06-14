@@ -196,3 +196,9 @@
 | 1004. Max Consecutive Ones III | 98.54% | 85.23% |          |
 | 485. Max Consecutive Ones      | 97%    | 23%    |          |
 | 532. K-diff Pairs in an Array  | 57%    | 54%    |          |
+
+## 2019-06-12
+
+| title                                                                                          | time | memory | solution |
+| ---------------------------------------------------------------------------------------------- | ---- | ------ | -------- |
+| [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/submissions/) | 75%  | 29%    | hashMap  |
