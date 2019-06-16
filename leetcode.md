@@ -204,3 +204,10 @@
 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/submissions/) | 75%  | 29%    | hashMap  |
 | 561. Array Partition I                                                                         | 96%  | 33%    |
 | 565. Array Nesting                                                                             | 93%  | 95%    |
+| 566. Reshape the Matrix                                                                        | 84%  | 83%    |
+
+## 2019-06-16
+
+| title           | time | memory | solution                                                              |
+| --------------- | ---- | ------ | --------------------------------------------------------------------- |
+| 75. Sort Colors | 98%  | 79%    | [Dijkstra](https://en.wikipedia.org/wiki/Dutch_national_flag_problem) |
