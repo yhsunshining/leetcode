@@ -208,6 +208,7 @@
 
 ## 2019-06-16
 
-| title           | time | memory | solution                                                              |
-| --------------- | ---- | ------ | --------------------------------------------------------------------- |
-| 75. Sort Colors | 98%  | 79%    | [Dijkstra](https://en.wikipedia.org/wiki/Dutch_national_flag_problem) |
+| title                                      | time | memory | solution                                                              |
+| ------------------------------------------ | ---- | ------ | --------------------------------------------------------------------- |
+| 75. Sort Colors                            | 98%  | 79%    | [Dijkstra](https://en.wikipedia.org/wiki/Dutch_national_flag_problem) |
+| 581. Shortest Unsorted Continuous Subarray | 93%  | 75%    |
