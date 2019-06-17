@@ -213,3 +213,9 @@
 | 75. Sort Colors                            | 98%  | 79%    | [Dijkstra](https://en.wikipedia.org/wiki/Dutch_national_flag_problem)     |
 | 581. Shortest Unsorted Continuous Subarray | 93%  | 75%    | [one Round](./problems/shortest-unsorted-continuous-subarray/oneRound.js) |
 | 611. Valid Triangle Number                 | 86%  | 25%    | 3sum                                                                      |
+
+## 2019-06-17
+
+| title                           | time     | memory | solution |
+| ------------------------------- | -------- | ------ | -------- |
+| 643. Maximum Average Subarray I | 90%/84ms | 73%    |          |
