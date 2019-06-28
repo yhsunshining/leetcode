@@ -222,8 +222,9 @@
 
 ## 2019-06-28
 
-| title                                          | time       | memory | solution |
-| ---------------------------------------------- | ---------- | ------ | -------- |
-| 665. Non-decreasing Array                      | 78%        | 41%    |          |
-| 670. Maximum Swap                              | 88.92%     | 85.71% |
-| 674. Longest Continuous Increasing Subsequence | 81.7%/56ms | 30%    |
+| title                                          | time       | memory | solution                                    |
+| ---------------------------------------------- | ---------- | ------ | ------------------------------------------- |
+| 665. Non-decreasing Array                      | 78%        | 41%    |                                             |
+| 670. Maximum Swap                              | 88.92%     | 85.71% |                                             |
+| 674. Longest Continuous Increasing Subsequence | 81.7%/56ms | 30%    |                                             |
+| 695. Max Area of Island                        | 91%/76ms   | 96%    | mark island to 0 to avoid repeated counting |
