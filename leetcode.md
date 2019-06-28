@@ -219,3 +219,9 @@
 | title                           | time     | memory | solution |
 | ------------------------------- | -------- | ------ | -------- |
 | 643. Maximum Average Subarray I | 90%/84ms | 73%    |          |
+
+## 2019-06-28
+
+| title                     | time | memory | solution |
+| ------------------------- | ---- | ------ | -------- |
+| 665. Non-decreasing Array | 78%  | 41%    |          |
