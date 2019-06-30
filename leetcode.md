@@ -236,3 +236,4 @@
 | --------------------------------------------------------- | ---- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 713. Subarray Product Less Than K                         | 90%+ |        |
 | 714. Best Time to Buy and Sell Stock with Transaction Fee |      |        | [dp](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/discuss/108871/2-solutions-2-states-DP-solutions-clear-explanation!) |
+| 717. 1-bit and 2-bit Characters                           | 94%  |        |                                                                                                                                                              |
