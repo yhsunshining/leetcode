@@ -229,4 +229,10 @@
 | 674. Longest Continuous Increasing Subsequence | 81.7%/56ms | 30%    |                                             |
 | 695. Max Area of Island                        | 91%/76ms   | 96%    | mark island to 0 to avoid repeated counting |
 | 697. Degree of an Array                        | 76ms/60%   | 80%+   | this is ok                                  |
-| 713. Subarray Product Less Than K              | 90%+       |        |
+
+## 2019-06-30
+
+| title                                                     | time | memory | solution                                                                                                                                                     |
+| --------------------------------------------------------- | ---- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 713. Subarray Product Less Than K                         | 90%+ |        |
+| 714. Best Time to Buy and Sell Stock with Transaction Fee |      |        | [dp](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/discuss/108871/2-solutions-2-states-DP-solutions-clear-explanation!) |
