@@ -1,14 +1,15 @@
 var fs = require("fs");
 var buf = "";
-const current = 0;
+let current = 0;
 let buffer_array = [];
 
 function readline() {
   if (current == buffer_array.length) {
     return null;
   }
-  return buffer_array[current];
+  let res = buffer_array[current];
   current++;
+  return res;
 }
 
 process.stdin.on("readable", function() {
