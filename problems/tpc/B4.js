@@ -27,5 +27,28 @@ process.stdin.on("end", function() {
 });
 
 function tick() {
-  let;
+  let n = parseInt(readline(), 10);
+  let arr = readline()
+    .split(" ")
+    .map(function(item) {
+      return parseInt(item, 10);
+    });
+
+  let sort = [].concat(arr).sort();
+  let max = sort[n / 2 - 1];
+  let min = sort[n / 2];
+  let p1 = 0,
+    p2 = n - 1;
+  let res = 0;
+  while (p1 < p2 && p1 < n / 2) {
+    if (arr[p1] > max) {
+      while (arr[p2] >= min && p2 > n / 2) {
+        p2--;
+      }
+      res += p2 - p1;
+      p2--;
+    }
+    p1++;
+  }
+  console.log(res);
 }
