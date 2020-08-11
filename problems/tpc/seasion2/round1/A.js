@@ -27,5 +27,10 @@ process.stdin.on("end", function() {
 });
 
 function tick() {
-  let;
+  let number = parseInt(readline(), 10);
+  if (number >= 1) {
+    console.log("You are the future of Tencent!");
+  } else {
+    console.log("Good luck and Enjoy TPC!");
+  }
 }
