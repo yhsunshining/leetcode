@@ -27,20 +27,31 @@ process.stdin.on("end", function () {
 });
 
 function tick() {
+  let count = parseInt(readline(), 10);
   let arr = readline()
     .split(" ")
-    .map((num) => parseInt(num, 10));
-
-  const number = arr.reduce((num, item) => {
-    return num | item;
-  }, 0);
-
-  const str = number.toString(2);
-  let count = 0;
-  for (let i = 0; i < str.length; i++) {
-    if (str[i] === "0") {
-      count++;
+    .map((str) => parseInt(str, 10));
+  let zero = 0;
+  let neg = 0;
+  let opt = 0;
+  arr.forEach((num) => {
+    if (num > 0) {
+      opt++;
+    } else if (num == 0) {
+      zero++;
+    } else {
+      neg++;
     }
+  });
+  let max = Math.max(neg, opt);
+  if (max > Math.ceil(count / 2)) {
+    console.log("No");
+    return;
+  } else {
+    console.log("Yes");
+    return;
   }
-  console.log(count);
+  // console.log(Math.ceil(count / 2));
+  // if (Math.floor(count / 2)) console.log(max);
+  // console.log(neg, zero, opt);
 }
